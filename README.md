@@ -1,4 +1,11 @@
 # Visualization-of-Superstore-Dataset
-This repository has a link to my PowerBI visualization of superstore dataset.
+This is a BI project.
+###
 ---
-https://app.powerbi.com/links/b1a8GsL3P-?ctid=6872e0c3-936c-4da1-b35a-b7ceb1d18fb3&pbi_source=linkShare
+Objective: The objective of this project is to draw insights to the sales data of the "superstore dataset" with a view of analyzing the sales, orders and shipment pattern of the company.
+## Methodology
+The major tool used is Microsoft PowerBI. Data transformation was done using the powerQuery engine and then the dataset was visualized.
+The visualization has a home page with three segment; sales, orders, and shipment. You can simply navigate from the home page and back using the button on each page.
+
+##Visuals
+https://community.powerbi.com/t5/Data-Stories-Gallery/Sales-Dashboard/td-p/3051949
